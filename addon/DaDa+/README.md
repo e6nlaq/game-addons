@@ -15,6 +15,7 @@
  - [ダダサバイバー ver.2](https://scratch.mit.edu/projects/785201439/)
  - [ダダサバイバー ver.2.s](https://scratch.mit.edu/projects/786484365/)
  - [ダダサバイバー ver.1](https://scratch.mit.edu/projects/784353744/)
+ <!-- - [ダダサバイバー ver.1](https://scratch.mit.edu/projects/784353744/) -->
 
 
 ## 機能
